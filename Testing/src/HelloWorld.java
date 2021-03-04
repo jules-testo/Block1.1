@@ -14,10 +14,19 @@ public class HelloWorld {
         //Liebes "System"
         // wir owolen etwar "out" ausgeben
         // print
-        // ln (neue Zeitle)
+        // ln (neue Zeile)
         // übergeben mit ".." einen Text
         // Abk. "sout"+Enter 0 System.out.println();
 
+        System.out.println("Ausgabe mit Zeilenumbruch");
+
+        System.out.print("Hello ");
+        System.out.print("World ");
+        System.out.print("without ");
+        System.out.print("line break");
+
+        System.out.println();
+        System.out.println("Letzte Zeile");
     }
 }
 
