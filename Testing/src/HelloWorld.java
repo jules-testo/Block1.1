@@ -12,7 +12,7 @@ public class HelloWorld {
 
         System.out.println("Hello World on day 4321");
         //Liebes "System"
-        // wir owolen etwar "out" ausgeben
+        // wir wollen etwas "out" ausgeben
         // print
         // ln (neue Zeile)
         // übergeben mit ".." einen Text
